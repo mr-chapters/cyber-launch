@@ -4,7 +4,7 @@ Before you start learning, you need to know what exists. Cybersecurity is not on
 
 ---
 
-## 🛡️ Defensive Security (Blue Team)
+##  Defensive Security (Blue Team)
 You protect the organization. You monitor, detect, and respond to threats.
 
 | Role | What you do |
@@ -20,7 +20,7 @@ You protect the organization. You monitor, detect, and respond to threats.
 
 ---
 
-## ⚔️ Offensive Security (Red Team)
+##  Offensive Security (Red Team)
 You are paid to think like an attacker and find weaknesses before real hackers do.
 
 | Role | What you do |
@@ -36,7 +36,7 @@ You are paid to think like an attacker and find weaknesses before real hackers d
 
 ---
 
-## ☁️ Cloud & Infrastructure Security
+##  Cloud & Infrastructure Security
 You secure the platforms and networks everything runs on.
 
 | Role | What you do |
@@ -52,7 +52,7 @@ You secure the platforms and networks everything runs on.
 
 ---
 
-## 📋 Governance, Risk & Compliance (GRC)
+##  Governance, Risk & Compliance (GRC)
 You bridge the gap between technical security and business/legal requirements.
 
 | Role | What you do |
@@ -68,7 +68,7 @@ You bridge the gap between technical security and business/legal requirements.
 
 ---
 
-## 🔐 Identity & Access Management (IAM)
+##  Identity & Access Management (IAM)
 You control who can access what.
 
 | Role | What you do |
@@ -82,7 +82,7 @@ You control who can access what.
 
 ---
 
-## 🧠 Emerging & Specialized
+##  Emerging & Specialized
 Newer fields that are growing fast.
 
 | Role | What you do |
@@ -98,7 +98,7 @@ Newer fields that are growing fast.
 
 ---
 
-## 🏗️ Security Engineering & Architecture
+## Security Engineering & Architecture
 You design and build secure systems.
 
 | Role | What you do |
@@ -113,7 +113,7 @@ You design and build secure systems.
 
 ---
 
-## 👨‍🏫 Non-Technical & Hybrid Roles
+## Non-Technical & Hybrid Roles
 You do not need to code to work in cybersecurity.
 
 | Role | What you do |
@@ -129,7 +129,7 @@ You do not need to code to work in cybersecurity.
 
 ---
 
-## 🎯 Which One Fits You?
+##  Which One Fits You?
 
 | If you like... | Consider... |
 |----------------|-------------|
