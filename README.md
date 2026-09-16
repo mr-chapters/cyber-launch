@@ -11,13 +11,13 @@ A free, beginner-friendly cybersecurity roadmap for anyone 13 and up. No experie
 ## How to use this repo
 Go in order. Don't skip the core. Follow the path that fits you.
 
-1. 👀 **See the fields** → [00-fields](./00-fields/)
-2. 🧱 **Learn the core** → [01-core](./01-core/)
-3. 🎯 **Pick your path** → [02-paths](./02-paths/)
-4. 📜 **Get certified** → [03-certs](./03-certs/)
-5. 📚 **Use free resources** → [04-resources](./04-resources/)
-6. 🛠️ **Build projects** → [05-projects](./05-projects/)
-7. 💼 **Start your career** → [06-career](./06-career/)
+1. **See the fields** → [00-fields](./00-fields/)
+2.  **Learn the core** → [01-core](./01-core/)
+3.  **Pick your path** → [02-paths](./02-paths/)
+4.  **Get certified** → [03-certs](./03-certs/)
+5.  **Use free resources** → [04-resources](./04-resources/)
+6.  **Build projects** → [05-projects](./05-projects/)
+7.  **Start your career** → [06-career](./06-career/)
 
 ---
 
