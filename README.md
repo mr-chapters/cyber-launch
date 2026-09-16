@@ -56,21 +56,7 @@ Deep-dive into a specialization after the core.
 - [Engineering](./02-paths/engineering.md)
 - [Non-Technical](./02-paths/non-technical.md)
 
-### [03-certs](./03-certs/)
-Certification roadmap with 2026 updates.
-- CompTIA Security+
-- AWS Security – Specialty
-- Microsoft AZ-500 / SC-500
-- CCSK
-- OSCP
-- CISSP / CISM
-- AI Security (emerging)
 
-### [04-resources](./04-resources/)
-Everything free.
-- [Free Links](./04-resources/free-links.md)
-- [YouTube Channels](./04-resources/youtube.md)
-- [Books](./04-resources/books.md)
 
 ### [05-projects](./05-projects/)
 Build a portfolio.
